@@ -1,0 +1,20 @@
+# Xcode build output
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.icloud
+
+# Generated DMG / scripts output
+*.dmg
+
+# Python cache
+__pycache__/
+*.pyc
